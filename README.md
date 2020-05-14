@@ -23,6 +23,8 @@ Somos uma startup de inovação tecnológica, financeira e social. Trabalhamos f
 
 Para ver o layout das telas, utilize o https://www.figma.com/ para importar os 2 arquivos .fig que você baixou. Rode a apresentação para ver o funcionamento das telas.
 
+A avaliação é focada no componente de inclusão de conteúdo, então não se preocupe muito em reproduzir o cabeçalho do site.
+
 Sinta-se a vontade em adicionar novos itens. Todo o desafio será analisado!
 
 
@@ -40,7 +42,7 @@ Sinta-se a vontade em adicionar novos itens. Todo o desafio será analisado!
 
 ### O que será avaliado?
 
-1. Se o objetivo foi bem executado e está funcionando.
+1. Se o objetivo foi executado com cuidado, qualidade e está funcional.
 2. Se boas praticas foram utilizadas na resolução do objetivo.
 3. Se há Commits message claro, com o que foi feito.
 4. Se foi realizada uma cobertura minima de testes.
