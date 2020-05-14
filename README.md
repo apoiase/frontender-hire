@@ -17,7 +17,7 @@ Somos uma startup de inovação tecnológica, financeira e social. Trabalhamos f
 
 ### Objetivo
 
-1. Crie um repositório privado no bitbucket e nos dê permissão de acesso ao repositório.
+1. Crie um repositório privado no bitbucket e nos(aluap.pinheiro@gmail.com, danielsalles@gmail.com) dê permissão de acesso ao repositório.
 2. Reproduza o layout que será passado para executar através da ferramenta figma, utilizando React + Material UI (https://material-ui.com/) + CSS.
 3. Utilizamos métodos ágeis e kanban no nosso dia-a-dia, então utilize a ferramenta trello.com para gerenciar o andamento do projeto. Nos convide (aluap.pinheiro@gmail.com, danielsalles@gmail.com, ilana@apoia.se) a ele pois queremos acompanhar o seu processo.
 
