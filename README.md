@@ -19,11 +19,12 @@ Somos uma startup de inovação tecnológica, financeira e social. Trabalhamos f
 
 1. Crie um repositório privado no bitbucket e nos dê permissão de acesso ao repositório.
 2. Reproduza o layout que será passado para executar através da ferramenta figma, utilizando React + Material UI (https://material-ui.com/) + CSS.
-3. Utilizamos métodos ágeis e kanban no nosso dia-a-dia, então utilize a ferramenta trello.com para gerenciar o andamento do projeto. Nos convide a ele pois queremos acompanhar o seu processo.
+3. Utilizamos métodos ágeis e kanban no nosso dia-a-dia, então utilize a ferramenta trello.com para gerenciar o andamento do projeto. Nos convide (aluap.pinheiro@gmail.com, danielsalles@gmail.com, ilana@apoia.se) a ele pois queremos acompanhar o seu processo.
 
 Para ver o layout das telas, utilize o https://www.figma.com/ para importar os 2 arquivos .fig que você baixou. Rode a apresentação para ver o funcionamento das telas.
 
 Sinta-se a vontade em adicionar novos itens. Todo o desafio será analisado!
+
 
 #### Obrigatório
 
